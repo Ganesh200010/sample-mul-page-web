@@ -1,1 +1,1 @@
-# Eduweb
+# sample-mul-page-web
